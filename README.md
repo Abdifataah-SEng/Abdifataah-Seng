@@ -28,11 +28,11 @@
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdifataah-SEng&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=abdifataah-seng&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdifataah-SEng&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=abdifataah-seng&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 
