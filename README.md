@@ -21,14 +21,14 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdifataah-SEng&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdifataah-SEng&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
 
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Abdifataah-SEng&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=abdifataah-SEng&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 <p align="center">
