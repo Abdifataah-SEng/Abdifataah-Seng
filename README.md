@@ -18,18 +18,7 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abdifataah-SEng&theme=dark&hide_border=true&layout=compact&langs_count=8" height="180"/>
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdifataah-SEng&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdifataah-sengs&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdifataah-sengs&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
